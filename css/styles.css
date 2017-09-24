@@ -1,0 +1,10 @@
+.avatar{
+    width:100%;
+}
+
+.new-style{
+    text-align: center;
+    background: #428bca; 
+    width: 100%;
+    color: rgba(255, 255, 255,0.9);
+}
